@@ -10,7 +10,7 @@
 This portfolio contains the evidence and reflections from my Agile project work.
 
 ## Live site
-https://YOUR_USERNAME.github.io
+https://stephen5963.github.io/agile-portfolio/
 
 ## Sections
 - [Agile Team Charter](https://YOUR_USERNAME.github.io/agile-team-charter/)
