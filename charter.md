@@ -149,4 +149,4 @@ By working under this charter, all members of TradeLoop Group 6 agree to uphold 
 
 - **What I did:** Describe your part in creating the charter, for example the design work you did as the team's Designer.
 - **What I learned:** What did you learn about teamwork, roles and working agreements?
-- **What I will do next:** How will you use these agreements in future projects?
+- **What I will do next:** How will you use these agreements in future project?
