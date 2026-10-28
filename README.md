@@ -13,12 +13,14 @@ This portfolio contains the evidence and reflections from my Agile project work.
 https://stephen5963.github.io/agile-portfolio/
 
 ## Sections
-- [Agile Team Charter](https://YOUR_USERNAME.github.io/agile-team-charter/)
-- [User Stories and Tasks](https://YOUR_USERNAME.github.io/user-stories-tasks/)
-- [Product Backlog](https://YOUR_USERNAME.github.io/product-backlog/)
-- [Sprint Backlog](https://YOUR_USERNAME.github.io/sprint-backlog/)
-- [Agile Logbook](https://YOUR_USERNAME.github.io/agile-logbook/)
+- [Agile Team Charter](https://stephen5963.github.io/agile-portfolio/#charter) ([full charter page](https://stephen5963.github.io/agile-portfolio/charter.html))
+- [User Stories and Tasks](https://stephen5963.github.io/agile-portfolio/#stories)
+- [Product Backlog](https://stephen5963.github.io/agile-portfolio/#product-backlog)
+- [Sprint Backlog](https://stephen5963.github.io/agile-portfolio/#sprint-backlog)
+- [Agile Logbook](https://stephen5963.github.io/agile-portfolio/#logbook)
 
 ## Repository contents
-- `index.html`: the portfolio homepage
+- `index.html`: the portfolio homepage with all five sections
+- `charter.md`: the full Agile Team Charter page
 - `evidence/`: my documents and screenshots
+
