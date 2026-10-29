@@ -4,7 +4,7 @@
 **Student number:** 222774703
 **Qualification:** Diploma in Information and Communication Technology, CPUT
 **Subject:** Project Presentation 3 (PRP370S)
-**Project:** TradeLoop, The Daily Micro-Skill Marketplace (Group 6)
+**Project:** TradeLoop
 
 ## About this portfolio
 
