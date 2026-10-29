@@ -1,0 +1,9 @@
+---
+---
+@import "{{ site.theme }}";
+
+.btn,
+.view,
+.site-footer-owner {
+  display: none !important;
+}
