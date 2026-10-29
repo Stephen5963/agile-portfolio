@@ -1,9 +1,8 @@
-# Digital Portfolio: Project Presentation 3
+# Digital Portfolio: 
 
 **Name:** Stephen Hendricks
 **Student number:** 222774703
 **Qualification:** Diploma in Information and Communication Technology, CPUT
-**Subject:** Project Presentation 3 (PRP370S)
 **Project:** TradeLoop
 
 ## About this portfolio
