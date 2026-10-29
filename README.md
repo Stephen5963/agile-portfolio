@@ -46,7 +46,7 @@ The Agile Team Charter is the agreement our team made about our purpose, roles, 
 User stories describe a feature from the end user's point of view. We broke each story into smaller tasks and managed them on a Trello board.
 
 - [User Stories and Tasks (PDF)](user-stories.pdf)
-- [Our Trello board](PASTE_YOUR_TRELLO_BOARD_LINK_HERE)
+- [Our Trello board](https://trello.com/invite/b/69f7cbd7f59c561feaa2764e/ATTI827328e7623ba3384ef2b8eca4b42c860ACA38D2/tradeloop-app)
 
 ![Trello board with user stories and tasks](trello-board.png)
 
