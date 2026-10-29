@@ -88,7 +88,7 @@ The sprint backlog is the set of work we selected from the product backlog to re
 
 - [Sprint Backlog (PDF)](sprint-backlog.pdf)
 
-![Sprint backlog screenshot](sprint-backlog.png)
+
 
 ### Reflection
 
